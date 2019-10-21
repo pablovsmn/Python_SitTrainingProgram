@@ -1,5 +1,5 @@
 # Python_SitTrainingProgram
-Sit Training Program on Python programming language. Content based on the germannp's Python course material.
+Sit Training Program on Python programming language. Content based on the [germannp's](https://github.com/germannp/BIST-Python-Bootcamp) Python course material.
 
 Online Resources
 ----------------
