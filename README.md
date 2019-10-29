@@ -14,3 +14,4 @@ Online Resources
 * [Raymond Hettinger: Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 * [Trey Causey: Testing for Data Scientists](https://www.youtube.com/watch?v=GEqM9uJi64Q)
 * [The Python Graph Gallery](https://python-graph-gallery.com/)
+* [Python tutor](http://pythontutor.com/)
